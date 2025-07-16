@@ -7,12 +7,22 @@ on:
 #      - main
       - new-site
 
+env:
+  ACTIONS_STEP_DEBUG: true
+  ACTIONS_RUNNER_DEBUG: true
+  
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main repository
         uses: actions/checkout@v4
+
+      - name: Debug: List .gitmodules file
+        run: ls -la .gitmodules || echo ".gitmodules not found"
+
+      - name: Remove lingering .gitmodules file
+        run: rm -f .gitmodules
 
       - name: Checkout page-scribe-static-flow repository
         uses: actions/checkout@v4
