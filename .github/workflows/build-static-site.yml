@@ -7,10 +7,6 @@ on:
 #      - main
       - new-site
 
-env:
-  ACTIONS_STEP_DEBUG: true
-  ACTIONS_RUNNER_DEBUG: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -42,6 +38,12 @@ jobs:
 
       - name: Run build.sh
         run: ./build.sh
+
+      - name: Remove symlinks and hard links from build output
+        run: |
+          find _website/page-scribe-static-flow/dist -type l -delete
+          # Remove hard links (uncommon, but for completeness)
+          find _website/page-scribe-static-flow/dist -type f -links +1 -exec rm {} \;
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
