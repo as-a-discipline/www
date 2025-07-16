@@ -47,7 +47,10 @@ jobs:
 
       - name: Remove symlinks and hard links from build output
         run: |
-          cp -R ./_website/page-scribe-static-flow/src/assets ./_website/page-scribe-static-flow/dist/assets
+          mkdir -p _website/page-scribe-static-flow/dist/assets/src
+          mkdir -p _website/page-scribe-static-flow/dist/assets/src/assets
+          cp -R ./_website/page-scribe-static-flow/src/assets ./_website/page-scribe-static-flow/dist/assets/
+          cp -R ./_website/page-scribe-static-flow/src/assets ./_website/page-scribe-static-flow/dist/assets/src/assets
 
 
       - name: Remove symlinks and hard links from build output
