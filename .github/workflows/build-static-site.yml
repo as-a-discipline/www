@@ -49,9 +49,8 @@ jobs:
         run: |
           chmod -R a+rX _website/page-scribe-static-flow/dist
 
-
       - name: Upload build artifacts
-        uses: uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
           path: _website/page-scribe-static-flow/dist
