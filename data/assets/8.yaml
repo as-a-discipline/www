@@ -1,0 +1,47 @@
+---
+id: '8'
+title: Adaptability Maturity Model
+subtitle: Framework for organizational adaptability assessment
+book: The Adaptable Enterprise
+books:
+- The Adaptable Enterprise
+category: Assessment
+description: Comprehensive maturity model for assessing and improving organizational
+  adaptability across structure, culture, and systems.
+format: PDF Guide
+size: 2.7 MB
+downloads: '1,890'
+version: '1.2'
+lastUpdated: '2024-01-05'
+featured: false
+overview: Organizational adaptability assessment framework.
+whatsIncluded:
+- Maturity model guide
+- Assessment questionnaire
+- Improvement roadmap
+howToUse:
+- Complete assessment
+- Identify maturity level
+- Plan improvements
+keyFeatures:
+- Multi-dimensional assessment
+- Maturity levels
+- Improvement planning
+useCase:
+  primaryAudience: Executives, Change leaders
+  timeToComplete: 90 minutes
+  frequency: Bi-annually
+  teamSize: 5-8 people
+framework:
+  title: Adaptability Framework
+  description: Multi-dimensional adaptability model
+  dimensions: []
+sampleQuestions: []
+support:
+  documentation: Comprehensive guide
+  videos: Assessment walkthrough
+  community: Community forum
+  support: Email support
+relatedResources: []
+testimonials: []
+downloadUrl: "#"

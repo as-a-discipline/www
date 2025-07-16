@@ -1,0 +1,83 @@
+---
+id: '2'
+title: Value Stream Economics Simulation
+subtitle: Experience the economic impact of delivery decisions through simulation
+book: Delivery as a Discipline
+books:
+- Delivery as a Discipline
+chapter: 'Chapter 3: Value Stream Economics'
+category: Simulation
+type: Simulation
+difficulty: Intermediate
+duration: 3 hours
+participants: 8-12 people
+featured: false
+description: Hands-on simulation where teams make delivery decisions and experience
+  the economic consequences, learning to balance cost of delay, throughput, and
+  quality.
+objective: Experience the economic impact of delivery decisions through simulation
+learningOutcomes:
+- Understand the economic trade-offs in delivery decisions
+- Experience the cost of delay in practical scenarios
+- Learn to balance throughput, quality, and customer satisfaction
+- Develop intuition for economic thinking in delivery
+prerequisites:
+- Basic understanding of software delivery lifecycle
+- Familiarity with agile practices
+- Understanding of business value and prioritization
+materials:
+- Simulation kit with cards and boards
+- Economic models and calculators
+- Decision cards for various scenarios
+- Timer for rounds
+- Scoreboard for tracking results
+instructions:
+  setup:
+  - Set up simulation boards for each team
+  - Distribute economic model worksheets
+  - Explain scoring system and success metrics
+  - Form teams of 4-6 participants each
+  steps:
+  - title: Simulation Rules and Economics
+    duration: 20 minutes
+    description: Explain the simulation mechanics, scoring system, and economic
+      principles.
+  - title: Practice Round
+    duration: 30 minutes
+    description: Teams play one practice round to understand the mechanics.
+  - title: Main Simulation - 4 Rounds
+    duration: 120 minutes
+    description: Teams play four rounds with increasing complexity and economic
+      pressure.
+  - title: Results Analysis
+    duration: 20 minutes
+    description: Review team scores and analyze decision patterns.
+  - title: Debrief and Learning
+    duration: 10 minutes
+    description: Discuss insights and how to apply learnings to real work.
+  debrief:
+  - What economic principles did you discover during the simulation?
+  - How did your decision-making change as you understood the economics?
+  - What parallels do you see with your real delivery work?
+  - How might you apply economic thinking to current projects?
+expectedOutcomes:
+- Practical experience with economic decision-making
+- Understanding of cost of delay impact
+- Insights into balancing competing priorities
+- Action items for applying economic thinking
+tips:
+- Emphasize learning over winning
+- Encourage teams to discuss their reasoning
+- Connect simulation events to real-world scenarios
+- Keep energy high with friendly competition
+variations:
+- 'For beginners: Simplify the economic model'
+- 'For advanced teams: Add more complex scenarios'
+- 'For remote: Use online simulation tools'
+githubUrl: https://github.com/as-a-discipline/value-stream-economics-kata
+exampleUrl: https://github.com/as-a-discipline/value-stream-economics-example
+relatedKatas:
+- title: Delivery Triangle Assessment Workshop
+  id: '1'
+- title: Flow State Analysis Workshop
+  id: '9'

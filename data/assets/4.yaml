@@ -1,0 +1,42 @@
+---
+id: '4'
+title: Cognitive Load Assessment
+subtitle: Framework for measuring cognitive load
+book: Delivery as a Discipline
+books:
+- Delivery as a Discipline
+- Architecture as a Discipline
+category: Assessment
+description: Framework for measuring and optimizing cognitive load in delivery systems
+  and team structures.
+format: Google Sheet
+size: Digital
+downloads: '743'
+version: '1.0'
+lastUpdated: '2024-01-01'
+featured: false
+overview: Cognitive load assessment framework.
+whatsIncluded:
+- Google Sheet template
+howToUse:
+- Copy and use the sheet
+keyFeatures:
+- Load measurement
+useCase:
+  primaryAudience: Team leads
+  timeToComplete: 45 minutes
+  frequency: Monthly
+  teamSize: 1-2 people
+framework:
+  title: Cognitive Load Theory
+  description: Measurement framework
+  dimensions: []
+sampleQuestions: []
+support:
+  documentation: Guide included
+  videos: Video available
+  community: Community forum
+  support: Email support
+relatedResources: []
+testimonials: []
+downloadUrl: "#"

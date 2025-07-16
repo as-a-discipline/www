@@ -1,0 +1,18 @@
+---
+id: 6
+title: Volatility Analysis Workshop
+books:
+- Architecture as a Discipline
+chapter: 'Chapter 3: Volatility Analysis'
+category: Analysis
+difficulty: Advanced
+duration: 3 hours
+participants: 6-12 people
+objective: Design system architecture based on change patterns
+materials:
+- System diagrams
+- Volatility assessment
+- Architecture patterns
+description: Comprehensive workshop on analyzing change patterns in systems and
+  designing architecture that optimizes for different volatility levels.
+featured: true

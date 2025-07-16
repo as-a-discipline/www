@@ -1,0 +1,15 @@
+---
+id: '6'
+title: QCon London Architecture Track
+type: Conference Talk
+date: '2023-11-15'
+time: 2:00 PM GMT
+location: Berlin, Germany
+virtual: false
+capacity: 800+
+price: Conference Ticket
+description: Deep dive into architectural decision-making frameworks.
+audience: Software Architects, Engineers
+status: Completed
+attendees: 800+
+recording: true

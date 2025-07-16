@@ -1,0 +1,62 @@
+---
+id: 7
+title: Insurance Company Platform Evolution
+books:
+- Architecture as a Discipline
+company: Fortune 100 Insurance Provider
+industry: Insurance
+location: Hartford, USA
+duration: 20 months
+teamSize: 180+ developers
+challenge: Evolving monolithic systems to support rapid product innovation
+outcome: Product launch time reduced 70%, system flexibility increased dramatically
+solution: Applied Domain-Driven Design with Event Sourcing to break apart monolithic
+  systems.
+implementation:
+- Conducted domain analysis and bounded context mapping
+- Implemented event sourcing for audit trails
+- Built microservices using DDD patterns
+- Created API-first integration architecture
+- Established automated testing and deployment
+results:
+  primary: Product launch time reduced 70%
+  secondary:
+  - System flexibility increased dramatically
+  - Development productivity improved 120%
+  - Bug resolution time reduced 60%
+  - Compliance audit efficiency improved 80%
+frameworks:
+- Domain-Driven Design
+- Event Sourcing
+- Microservices Patterns
+keyMetrics:
+- label: Product Launch Time
+  before: 12 months
+  after: 3.6 months
+  improvement: 70%
+- label: Development Productivity
+  before: 5 features/month
+  after: 11 features/month
+  improvement: 120%
+- label: Bug Resolution
+  before: 5 days
+  after: 2 days
+  improvement: 60%
+- label: Audit Efficiency
+  before: 80 hours
+  after: 16 hours
+  improvement: 80%
+testimonial:
+  quote: Domain-Driven Design gave us the language to talk about our business. Event
+    Sourcing provided the audit trail we needed for compliance.
+  author: James Patterson
+  role: Chief Architect
+  company: Fortune 100 Insurance Provider
+lessons:
+- Domain modeling drives better architecture decisions
+- Event sourcing provides natural audit trails
+- Microservices enable team autonomy
+- API-first design improves integration
+featured: false
+publishDate: '2022'
+downloadUrl: "#"

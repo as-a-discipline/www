@@ -1,0 +1,65 @@
+---
+id: 2
+title: Tech Startup Scaling Architecture
+books:
+- Architecture as a Discipline
+company: Series B SaaS Company
+industry: Technology
+location: San Francisco, USA
+duration: 12 months
+teamSize: 50+ engineers
+challenge: Scaling from 10 to 100 engineers without sacrificing development velocity
+  or system reliability. The existing monolithic architecture was becoming a bottleneck.
+outcome: Maintained 95% uptime during 10x team growth
+solution: Applied the Responsibility Principle and Volatility Analysis to redesign
+  the system architecture around business capabilities rather than technical layers.
+implementation:
+- Conducted comprehensive volatility analysis of system components
+- Implemented domain-driven design based on business responsibilities
+- Created architectural runway for continuous delivery
+- Established architecture governance through decision records
+- Built automated quality gates and architectural fitness functions
+results:
+  primary: Maintained 95% uptime during 10x team growth
+  secondary:
+  - Developer velocity increased 2.3x
+  - System reliability improved to 99.9%
+  - Architecture debt reduced by 70%
+  - Feature delivery speed increased 5x
+frameworks:
+- Responsibility Principle
+- Volatility Analysis
+- Architectural Runway
+- Domain-Driven Design
+- Evolutionary Architecture
+keyMetrics:
+- label: System Uptime
+  before: 95%
+  after: 99.9%
+  improvement: 5%
+- label: Dev Velocity
+  before: 2.1x
+  after: 4.8x
+  improvement: 2.3x
+- label: Architecture Debt
+  before: High
+  after: Low
+  improvement: 70%
+- label: Feature Delivery
+  before: 2 weeks
+  after: 3 days
+  improvement: 5x
+testimonial:
+  quote: Volatility Analysis completely changed how we think about architecture.
+    We now design systems that embrace change rather than resist it.
+  author: Marcus Chen
+  role: Chief Technology Officer
+  company: High-Growth SaaS Startup
+lessons:
+- Architecture decisions should be driven by business volatility patterns
+- Responsibility-based design is more sustainable than technical layering
+- Continuous architecture is more effective than big-bang redesigns
+- Governance through decision records scales better than review committees
+featured: false
+publishDate: '2023'
+downloadUrl: "#"

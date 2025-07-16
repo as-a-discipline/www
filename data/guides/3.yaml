@@ -1,0 +1,19 @@
+---
+title: Architecture as Strategy Workshop
+book: Architecture as a Discipline
+description: Technical leadership workshop for establishing architectural discipline
+  and governance.
+duration: 4-day intensive workshop
+participants: 6-20 technical leaders
+level: Technical Leadership
+materials:
+- Technical Facilitator Guide (112 pages)
+- Architecture Assessment Kit
+- Decision Framework Templates
+- Governance Toolkits
+- Reference Architecture Examples
+outcomes:
+- Establish architecture governance
+- Design decision frameworks
+- Implement quality gates
+- Build technical debt management

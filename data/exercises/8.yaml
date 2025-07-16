@@ -1,0 +1,18 @@
+---
+id: 8
+title: Technical Debt Prioritization Game
+books:
+- Architecture as a Discipline
+chapter: 'Chapter 5: Technical Debt Management'
+category: Simulation
+difficulty: Beginner
+duration: 90 minutes
+participants: 4-10 people
+objective: Learn to prioritize technical debt using economic principles
+materials:
+- Debt cards
+- Prioritization matrix
+- Economic calculator
+description: Interactive game where teams prioritize technical debt items using
+  cost of delay, implementation effort, and risk factors.
+featured: false

@@ -1,0 +1,64 @@
+---
+id: 3
+title: Manufacturing Supply Chain Adaptation
+books:
+- The Adaptable Enterprise
+company: Global Manufacturing Corp
+industry: Manufacturing
+location: Detroit, USA
+duration: 24 months
+teamSize: 150+ employees
+challenge: Adapting supply chain operations to handle volatile demand and supply
+  disruptions
+outcome: Reduced supply chain response time from weeks to days, 95% on-time delivery
+  maintained
+solution: Applied Adaptive Sensing and Response Repertoire frameworks to build resilient
+  supply chain operations.
+implementation:
+- Implemented real-time demand sensing across all channels
+- Built portfolio optionality for supplier relationships
+- Created response repertoire for disruption scenarios
+- Established adaptive planning cycles
+- Integrated AI-powered demand forecasting
+results:
+  primary: Reduced supply chain response time from weeks to days
+  secondary:
+  - 95% on-time delivery maintained
+  - 40% reduction in inventory costs
+  - 60% faster adaptation to market changes
+  - 85% improvement in supplier reliability
+frameworks:
+- Adaptive Sensing
+- Portfolio Optionality
+- Response Repertoire
+keyMetrics:
+- label: Response Time
+  before: 2-3 weeks
+  after: 2-3 days
+  improvement: 85%
+- label: On-time Delivery
+  before: 78%
+  after: 95%
+  improvement: 17%
+- label: Inventory Costs
+  before: "$50M"
+  after: "$30M"
+  improvement: 40%
+- label: Supplier Reliability
+  before: 60%
+  after: 92%
+  improvement: 53%
+testimonial:
+  quote: The Adaptive Enterprise framework gave us the tools to turn supply chain
+    volatility from a weakness into a competitive advantage.
+  author: Jennifer Martinez
+  role: Chief Supply Chain Officer
+  company: Global Manufacturing Corp
+lessons:
+- Sensing capabilities are more valuable than prediction accuracy
+- Portfolio optionality provides resilience against disruptions
+- Response repertoire must be practiced, not just planned
+- Adaptive planning beats detailed long-term planning
+featured: false
+publishDate: '2023'
+downloadUrl: "#"

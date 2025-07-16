@@ -1,0 +1,18 @@
+---
+id: delivery-maturity
+title: Delivery Maturity Assessment
+book: Delivery as a Discipline
+description: Comprehensive evaluation of your organization's delivery capabilities
+  across flow, value, and improvement dimensions.
+duration: 45-60 minutes
+questions: 87 questions
+categories:
+- Flow Management
+- Value Delivery
+- Feedback Loops
+- Improvement Culture
+- Metrics & Measurement
+sample:
+  category: Flow Management
+  score: 68
+  benchmark: 'Industry Average: 52'

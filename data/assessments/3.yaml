@@ -1,0 +1,18 @@
+---
+id: architecture-scorecard
+title: Architecture Discipline Scorecard
+book: Architecture as a Discipline
+description: Evaluate architectural practices, governance, and technical debt management
+  across your technology organization.
+duration: 40-55 minutes
+questions: 95 questions
+categories:
+- Architectural Governance
+- Decision Management
+- Quality Assurance
+- Technical Debt
+- Evolution Planning
+sample:
+  category: Technical Debt
+  score: 42
+  benchmark: 'Recommended Minimum: 60'

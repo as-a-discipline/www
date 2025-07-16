@@ -1,0 +1,101 @@
+---
+id: '1'
+title: Delivery Triangle Assessment
+subtitle: Comprehensive framework for evaluating organizational delivery capability
+book: Delivery as a Discipline
+books:
+- Delivery as a Discipline
+category: Assessment
+description: A comprehensive framework for evaluating your organization's delivery
+  capability across Alignment, Flow, and Execution dimensions. This template provides
+  structured assessment criteria, scoring mechanisms, and improvement recommendations.
+format: Excel Template
+size: 2.4 MB
+downloads: '1,247'
+version: '2.1'
+lastUpdated: '2024-01-15'
+featured: true
+overview: The Delivery Triangle Assessment template helps organizations systematically
+  evaluate their delivery capabilities across three critical dimensions. Rather
+  than focusing on individual practices or tools, this assessment examines the underlying
+  systems that enable predictable, sustainable delivery.
+whatsIncluded:
+- Interactive Excel workbook with automated scoring
+- Assessment criteria for each dimension of the Delivery Triangle
+- Benchmark data from 200+ organizations
+- Prioritized improvement recommendations
+- Executive summary report generator
+- Implementation roadmap template
+howToUse:
+- Download and open the Excel template
+- Complete the assessment questionnaire (approximately 45 minutes)
+- Review automated scoring and benchmark comparisons
+- Identify priority improvement areas using the built-in analysis
+- Generate executive summary for leadership presentation
+- Use the roadmap template to plan implementation
+keyFeatures:
+- Automated scoring with instant feedback
+- Benchmark comparisons across industries
+- Prioritized improvement recommendations
+- Executive-ready summary reports
+- Implementation planning tools
+useCase:
+  primaryAudience: Delivery Leaders, VPs of Engineering, CTOs
+  timeToComplete: 45-60 minutes
+  frequency: Quarterly assessment recommended
+  teamSize: 5-8 participants for comprehensive evaluation
+framework:
+  title: The Delivery Triangle
+  description: 'Based on the core framework from ''Delivery as a Discipline'', this
+    assessment evaluates three interconnected dimensions:'
+  dimensions:
+  - name: Alignment
+    description: How well the organization aligns delivery work with business value
+      and strategic outcomes
+    assessmentAreas:
+    - Strategic alignment
+    - Economic thinking
+    - Stakeholder coordination
+  - name: Flow
+    description: The effectiveness of work flow through the delivery system from
+      idea to customer value
+    assessmentAreas:
+    - Value stream design
+    - Constraint management
+    - Feedback loops
+  - name: Execution
+    description: The capability to consistently deliver high-quality outcomes at
+      sustainable pace
+    assessmentAreas:
+    - Quality practices
+    - Cognitive load management
+    - Improvement culture
+sampleQuestions:
+- How does your organization prioritize delivery work? (Economic value, business
+  alignment, strategic importance)
+- What percentage of work items flow through your delivery system without rework
+  or delays?
+- How effectively does your team manage cognitive load to maintain sustainable delivery
+  pace?
+support:
+  documentation: Comprehensive user guide included
+  videos: Step-by-step tutorial videos available
+  community: Access to user community forum
+  support: Email support for template questions
+relatedResources:
+- title: Value Stream Mapping Canvas
+  type: Template
+  category: Planning
+- title: Cognitive Load Assessment
+  type: Template
+  category: Assessment
+- title: Delivery Transformation Workshop
+  type: Exercise
+  category: Workshop
+testimonials:
+- quote: This assessment gave us the clarity we needed to prioritize our delivery
+    improvements. The scoring system helped us focus on the highest-impact areas.
+  author: Jennifer Walsh
+  role: VP of Engineering
+  company: TechCorp
+downloadUrl: "#"

@@ -1,0 +1,48 @@
+---
+id: '1'
+title: Delivery as a Discipline
+subtitle: Beyond Frameworks, Toward Flow and Value
+description: Defines delivery not as project management or methodology, but as a
+  continuous system of value generation across alignment, flow, and execution. Provides
+  a mental model for structuring delivery as an operational capability.
+fullDescription: |-
+  In today's technology landscape, most organizations treat delivery as a collection of ceremonies, tools, and methodologies. They adopt frameworks like Scrum or SAFe, implement kanban boards, and hold retrospectives—yet still struggle with predictability, quality, and sustainable pace. The problem isn't the frameworks themselves; it's treating delivery as a process rather than as a discipline.
+
+  This book reframes delivery as a continuous system of value generation built on three foundational pillars: The Delivery Triangle of Alignment, Flow, and Execution. These aren't separate concerns—they're interconnected systems that reinforce each other when designed thoughtfully.
+
+  Unlike books that prescribe specific methodologies, this book provides the economic and systems thinking foundations that let you adapt any methodology to your context. You'll learn to diagnose delivery problems at their root and design solutions that address underlying capability gaps, not just surface symptoms.
+cover: "/src/assets/book-1-cover.jpg"
+published: '2024'
+pages: '342'
+readers: 2.3K
+genre: Technology & Business
+rating: '4.9'
+status: Available
+featured: true
+keyFrameworks:
+- The Delivery Triangle
+- Value Stream Economics
+- Cognitive Load Theory
+targetAudience: VPs of Engineering, Delivery Leaders, CTOs
+businessImpact: 78% faster delivery, 45% quality improvement
+readingTime: 8-12 hours
+practicalExercises: 15
+features:
+- 'The Delivery Triangle: Alignment, Flow, Execution'
+- Value Stream Economics frameworks
+- Cognitive Load Theory applications
+- From Ritual to Discipline transformation
+chapters:
+- title: Beyond Agile Cargo Cults
+  description: Understanding why most delivery transformations fail and what disciplines
+    actually work.
+- title: The Delivery Triangle
+  description: The foundational model of Alignment, Flow, and Execution as interconnected
+    systems.
+- title: Value Stream Economics
+  description: Balancing cost of delay, waste, and throughput in delivery systems.
+- title: Cognitive Load Theory
+  description: Designing delivery systems that humans can actually sustain and excel
+    within.
+- title: Building Delivery Discipline
+  description: Practical frameworks for implementing and scaling delivery excellence.

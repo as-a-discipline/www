@@ -1,0 +1,42 @@
+---
+id: '5'
+title: Volatility Analysis Framework
+subtitle: Tool for analyzing change patterns
+book: Architecture as a Discipline
+books:
+- Architecture as a Discipline
+category: Analysis
+description: Tool for analyzing change patterns in system components and designing
+  architecture for different volatility levels.
+format: Excel + Guide
+size: 3.1 MB
+downloads: '1,800'
+version: '1.0'
+lastUpdated: '2024-01-01'
+featured: true
+overview: Volatility analysis framework.
+whatsIncluded:
+- Excel template
+- Analysis guide
+howToUse:
+- Complete the analysis
+keyFeatures:
+- Change pattern analysis
+useCase:
+  primaryAudience: Architects
+  timeToComplete: 60 minutes
+  frequency: Quarterly
+  teamSize: 3-5 people
+framework:
+  title: Volatility Framework
+  description: Change analysis
+  dimensions: []
+sampleQuestions: []
+support:
+  documentation: Comprehensive guide
+  videos: Tutorial videos
+  community: Community forum
+  support: Email support
+relatedResources: []
+testimonials: []
+downloadUrl: "#"

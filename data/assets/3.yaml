@@ -1,0 +1,41 @@
+---
+id: '3'
+title: Delivery Triangle Canvas
+subtitle: Visual framework for delivery alignment
+book: Delivery as a Discipline
+books:
+- Delivery as a Discipline
+category: Planning
+description: 'Visual framework for aligning teams around delivery objectives using
+  the three pillars: Alignment, Flow, and Execution.'
+format: PDF Canvas
+size: 456 KB
+downloads: '5,100'
+version: '1.0'
+lastUpdated: '2024-01-01'
+featured: false
+overview: A visual canvas for team alignment around delivery objectives.
+whatsIncluded:
+- PDF canvas template
+howToUse:
+- Download and print the canvas
+keyFeatures:
+- Visual alignment tool
+useCase:
+  primaryAudience: Delivery teams
+  timeToComplete: 30 minutes
+  frequency: As needed
+  teamSize: 5-8 people
+framework:
+  title: Delivery Triangle
+  description: Three-pillar framework
+  dimensions: []
+sampleQuestions: []
+support:
+  documentation: Basic guide included
+  videos: Tutorial available
+  community: Community forum
+  support: Email support
+relatedResources: []
+testimonials: []
+downloadUrl: "#"

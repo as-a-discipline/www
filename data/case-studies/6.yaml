@@ -1,0 +1,62 @@
+---
+id: 6
+title: Government Digital Services Delivery
+books:
+- Delivery as a Discipline
+company: State Government Agency
+industry: Government
+location: Austin, USA
+duration: 24 months
+teamSize: 120+ civil servants
+challenge: Delivering citizen services online with strict accessibility and compliance
+  requirements
+outcome: Citizen satisfaction up 60%, service delivery time reduced 80%
+solution: Applied Delivery Triangle framework with emphasis on compliance and accessibility.
+implementation:
+- Implemented user story mapping for citizen journeys
+- Built continuous compliance into delivery pipelines
+- Created accessibility-first design processes
+- Established feedback loops with citizen groups
+- Developed cross-functional delivery teams
+results:
+  primary: Citizen satisfaction increased 60%
+  secondary:
+  - Service delivery time reduced 80%
+  - Accessibility compliance achieved 100%
+  - Operating costs reduced 40%
+  - Digital adoption increased 250%
+frameworks:
+- User Story Mapping
+- Continuous Compliance
+- Feedback Loops
+keyMetrics:
+- label: Citizen Satisfaction
+  before: 2.8/5
+  after: 4.5/5
+  improvement: 61%
+- label: Service Delivery Time
+  before: 10 days
+  after: 2 days
+  improvement: 80%
+- label: Accessibility Score
+  before: 60%
+  after: 100%
+  improvement: 67%
+- label: Digital Adoption
+  before: 20%
+  after: 70%
+  improvement: 250%
+testimonial:
+  quote: The Delivery Triangle helped us balance citizen needs, compliance requirements,
+    and operational efficiency. Government can deliver great digital experiences.
+  author: Maria Rodriguez
+  role: Chief Digital Officer
+  company: State Government Agency
+lessons:
+- Accessibility drives better design for everyone
+- Continuous compliance reduces delivery friction
+- User story mapping works for citizen journeys
+- Government can be agile without sacrificing quality
+featured: true
+publishDate: '2023'
+downloadUrl: "#"

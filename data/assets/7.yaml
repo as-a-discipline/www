@@ -1,0 +1,47 @@
+---
+id: '7'
+title: Technical Debt Register
+subtitle: Systematic tracking of technical debt
+book: Architecture as a Discipline
+books:
+- Architecture as a Discipline
+category: Documentation
+description: Structured approach to identifying, prioritizing, and tracking technical
+  debt with economic impact assessment.
+format: Excel Template
+size: 1.8 MB
+downloads: '4,320'
+version: '1.5'
+lastUpdated: '2024-01-12'
+featured: true
+overview: Technical debt tracking and prioritization tool.
+whatsIncluded:
+- Excel workbook
+- Prioritization matrix
+- Economic impact calculator
+howToUse:
+- Log technical debt items
+- Assess impact and effort
+- Prioritize based on economics
+keyFeatures:
+- Economic impact calculation
+- Automated prioritization
+- Progress tracking
+useCase:
+  primaryAudience: Technical leads, Architects
+  timeToComplete: 15 minutes per debt item
+  frequency: Ongoing
+  teamSize: 2-4 people
+framework:
+  title: Economic Debt Management
+  description: Systematic debt tracking
+  dimensions: []
+sampleQuestions: []
+support:
+  documentation: User guide included
+  videos: Best practices video
+  community: Community forum
+  support: Email support
+relatedResources: []
+testimonials: []
+downloadUrl: "#"

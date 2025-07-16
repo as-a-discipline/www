@@ -1,0 +1,49 @@
+---
+id: '2'
+title: The Adaptable Enterprise
+subtitle: Why Change Fails—and How to Build Organizations That Evolve
+description: Explores how adaptability—not just strategy or execution—is the core
+  survival trait for modern enterprises. Offers a practical and economic lens on
+  building organizations that embrace change.
+fullDescription: |-
+  Most business books focus on strategy or execution. This book argues that neither matters if your organization can't adapt. In a world where business models are disrupted overnight and competitive advantages evaporate rapidly, the ability to evolve isn't just valuable—it's the ultimate competitive advantage.
+
+  Organizations face a fundamental paradox: the very capabilities that make them successful today often prevent them from adapting to tomorrow's challenges. This book provides practical frameworks for building organizations that don't just survive change—they thrive because of it.
+
+  The book introduces The Rule of 3 framework for continuous evolution: Stabilize (build operational excellence), Reach (extend into adjacent possibilities), and Reassess (question fundamental assumptions). This isn't a linear process—it's a continuous cycle that prevents organizations from getting trapped in any single mode.
+cover: "/src/assets/book-2-cover.jpg"
+published: '2024'
+pages: '287'
+readers: 1.8K
+genre: Business Strategy
+rating: '4.8'
+status: Available
+featured: false
+keyFrameworks:
+- The Rule of 3
+- Adaptive Advantage
+- Optionality Theory
+targetAudience: CEOs, Senior Leaders, Change Executives
+businessImpact: 40% increase in adaptability metrics
+readingTime: 6-10 hours
+practicalExercises: 12
+features:
+- Adaptive Advantage vs. Operational Efficiency
+- Creative Destruction & Optionality Theory
+- Adaptability measurement frameworks
+- 'The Rule of 3: Stabilize, Reach, Reassess'
+chapters:
+- title: The Adaptability Imperative
+  description: Why adaptability has become more valuable than operational efficiency
+    in modern business.
+- title: The Psychology of Organizational Change
+  description: Understanding cognitive biases, resistance patterns, and cultural
+    inertia.
+- title: Measuring Adaptability
+  description: Leading vs. lagging indicators for organizational adaptability.
+- title: Creative Destruction as Strategy
+  description: How to deliberately obsolete your own capabilities before competitors
+    do.
+- title: Building Adaptive Advantage
+  description: Practical frameworks for embedding adaptability into organizational
+    DNA.

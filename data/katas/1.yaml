@@ -1,0 +1,87 @@
+---
+id: '1'
+title: Delivery Triangle Assessment Workshop
+subtitle: Map your current delivery system across Alignment, Flow, and Execution
+  dimensions
+book: Delivery as a Discipline
+books:
+- Delivery as a Discipline
+chapter: 'Chapter 2: The Delivery Triangle'
+category: Assessment
+type: Workshop
+difficulty: Beginner
+duration: 90 minutes
+participants: 5-8 people
+featured: true
+description: Interactive workshop to identify gaps in your delivery capability and
+  prioritize improvement areas using the Delivery Triangle framework. This kata
+  helps teams understand their current state and develop action plans for improvement.
+objective: Map your current delivery system across Alignment, Flow, and Execution
+  dimensions
+learningOutcomes:
+- Understand the three dimensions of the Delivery Triangle
+- Assess your organization's current delivery capability
+- Identify the highest-impact improvement areas
+- Create a prioritized action plan for delivery improvements
+prerequisites:
+- Basic understanding of software delivery processes
+- Familiarity with your organization's current delivery practices
+- Access to delivery metrics and performance data
+materials:
+- Delivery Triangle Canvas (provided)
+- Sticky notes and markers
+- Assessment rubric
+- Laptop/tablet for each participant
+- Whiteboard or flipchart paper
+instructions:
+  setup:
+  - Print the Delivery Triangle Canvas for each participant
+  - Prepare sticky notes in three different colors (one for each dimension)
+  - Set up a whiteboard or large paper for group discussion
+  - Ensure all participants have access to relevant delivery metrics
+  steps:
+  - title: Introduction and Framework Overview
+    duration: 15 minutes
+    description: 'Present the Delivery Triangle framework and explain the three
+      dimensions: Alignment, Flow, and Execution.'
+  - title: Individual Assessment
+    duration: 20 minutes
+    description: Each participant completes the assessment rubric, scoring their
+      organization on each dimension.
+  - title: Group Discussion and Mapping
+    duration: 30 minutes
+    description: Teams discuss their individual assessments and create a collective
+      view on the canvas.
+  - title: Gap Analysis
+    duration: 15 minutes
+    description: Identify the biggest gaps and their potential impact on delivery
+      performance.
+  - title: Action Planning
+    duration: 10 minutes
+    description: Prioritize improvement areas and create next steps for implementation.
+  debrief:
+  - What were the most surprising findings from the assessment?
+  - Which dimension shows the biggest opportunity for improvement?
+  - What are the interdependencies between the three dimensions?
+  - What would be the first concrete step to take based on these findings?
+expectedOutcomes:
+- Completed Delivery Triangle assessment for your organization
+- Prioritized list of improvement opportunities
+- Action plan with specific next steps
+- Shared understanding of delivery capability gaps
+tips:
+- Encourage honest self-assessment rather than aspirational scoring
+- Focus on systemic issues rather than individual performance
+- Use real examples from your organization to illustrate concepts
+- Keep the energy high with interactive discussions
+variations:
+- 'For larger groups: Break into smaller teams of 5-8 people'
+- 'For remote teams: Use virtual whiteboard tools like Miro or Mural'
+- 'For follow-up: Repeat quarterly to track improvement progress'
+githubUrl: https://github.com/as-a-discipline/delivery-triangle-kata
+exampleUrl: https://github.com/as-a-discipline/delivery-triangle-example
+relatedKatas:
+- title: Value Stream Economics Simulation
+  id: '2'
+- title: Cognitive Load Mapping Exercise
+  id: '5'

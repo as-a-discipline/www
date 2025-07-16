@@ -1,0 +1,69 @@
+---
+id: 1
+title: Global Bank Delivery Transformation
+books:
+- Delivery as a Discipline
+company: Fortune 500 Financial Institution
+industry: Financial Services
+location: New York, USA
+duration: 18 months
+teamSize: 200+ employees
+challenge: The bank was struggling with a 6-month delivery cycle for new features
+  while maintaining strict regulatory compliance. Traditional agile implementations
+  had failed to address the underlying systemic issues around alignment, flow, and
+  execution.
+outcome: 78% reduction in time-to-market (from 6 months to 6 weeks)
+solution: Implemented the complete Delivery Triangle framework, focusing on organizational
+  alignment through economic thinking, flow optimization via value stream mapping,
+  and execution excellence through cognitive load management.
+implementation:
+- Established cross-functional product teams with embedded compliance officers
+- Implemented value stream economics to prioritize features based on cost of delay
+- Redesigned team cognitive load using Team Topologies principles
+- Created continuous compliance pipelines integrated with delivery workflows
+- Established flow metrics and feedback loops for continuous improvement
+results:
+  primary: 78% reduction in time-to-market (from 6 months to 6 weeks)
+  secondary:
+  - 45% improvement in quality metrics
+  - 90% reduction in compliance issues
+  - 60% increase in developer productivity
+  - 50% reduction in operational incidents
+frameworks:
+- The Delivery Triangle
+- Value Stream Economics
+- Cognitive Load Theory
+- Team Topologies
+- Continuous Compliance
+keyMetrics:
+- label: Time to Market
+  before: 6 months
+  after: 6 weeks
+  improvement: 78%
+- label: Quality Score
+  before: 2.1/5
+  after: 3.8/5
+  improvement: 45%
+- label: Compliance Issues
+  before: 150/month
+  after: 15/month
+  improvement: 90%
+- label: Developer Velocity
+  before: 12 story points
+  after: 19 story points
+  improvement: 60%
+testimonial:
+  quote: The Delivery Triangle framework transformed how we think about delivery.
+    Instead of focusing on ceremonies and tools, we now have a systematic approach
+    to organizational capability.
+  author: Sarah Johnson
+  role: VP of Digital Transformation
+  company: Major Financial Institution
+lessons:
+- Organizational alignment is more important than process optimization
+- Economic thinking drives better priority decisions than feature-based backlogs
+- Cognitive load management is critical for sustainable delivery velocity
+- Compliance can be an accelerator, not a constraint, when properly integrated
+featured: true
+publishDate: '2023'
+downloadUrl: "#"

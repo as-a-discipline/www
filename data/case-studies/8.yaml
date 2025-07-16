@@ -1,0 +1,61 @@
+---
+id: 8
+title: Energy Company Organizational Restructure
+books:
+- The Adaptable Enterprise
+company: Renewable Energy Corporation
+industry: Energy
+location: Denver, USA
+duration: 18 months
+teamSize: 250+ employees
+challenge: Restructuring organization for rapid response to market changes
+outcome: Decision speed increased 200%, market response time reduced 50%
+solution: Applied Network Organization principles with Dynamic Capabilities framework.
+implementation:
+- Redesigned organization as network of autonomous teams
+- Built dynamic capabilities for market sensing
+- Created portfolio thinking for investment decisions
+- Established rapid decision-making processes
+- Implemented real-time market intelligence
+results:
+  primary: Decision speed increased 200%
+  secondary:
+  - Market response time reduced 50%
+  - Innovation rate improved 150%
+  - Employee engagement increased 40%
+  - Revenue growth accelerated 80%
+frameworks:
+- Network Organization
+- Dynamic Capabilities
+- Portfolio Thinking
+keyMetrics:
+- label: Decision Speed
+  before: 6 weeks
+  after: 2 weeks
+  improvement: 67%
+- label: Market Response
+  before: 4 months
+  after: 2 months
+  improvement: 50%
+- label: Innovation Rate
+  before: 2 projects/quarter
+  after: 5 projects/quarter
+  improvement: 150%
+- label: Employee Engagement
+  before: 3.1/5
+  after: 4.3/5
+  improvement: 39%
+testimonial:
+  quote: Network Organization transformed how we operate. We went from a slow bureaucracy
+    to a responsive, adaptive enterprise.
+  author: Lisa Chang
+  role: Chief Operating Officer
+  company: Renewable Energy Corporation
+lessons:
+- Network structures enable faster decisions
+- Dynamic capabilities must be consciously built
+- Portfolio thinking improves resource allocation
+- Organizational design is a strategic capability
+featured: false
+publishDate: '2023'
+downloadUrl: "#"

@@ -1,0 +1,18 @@
+---
+id: 4
+title: Architecture Decision Record Workshop
+books:
+- Architecture as a Discipline
+chapter: 'Chapter 4: Architectural Runway'
+category: Documentation
+difficulty: Intermediate
+duration: 2 hours
+participants: 4-8 people
+objective: Learn to document architectural decisions with economic context
+materials:
+- ADR templates
+- Decision scenarios
+- Economic frameworks
+description: Practice writing Architecture Decision Records that capture not just
+  what was decided, but the economic reasoning and future optionality considerations.
+featured: false

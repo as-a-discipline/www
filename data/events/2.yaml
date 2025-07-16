@@ -1,0 +1,15 @@
+---
+id: '2'
+title: Architecture as Strategy Symposium
+type: Conference
+date: '2024-04-22'
+time: 8:00 AM - 6:00 PM PDT
+location: Seattle, WA
+virtual: true
+capacity: 500 participants
+price: "$495"
+description: Full-day conference exploring how architecture decisions shape business
+  outcomes.
+audience: Architects, CTOs, Technical Directors
+status: Early Bird
+showRegistration: false
