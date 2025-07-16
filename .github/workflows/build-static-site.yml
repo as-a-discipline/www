@@ -45,6 +45,11 @@ jobs:
           # Remove hard links (uncommon, but for completeness)
           find _website/page-scribe-static-flow/dist -type f -links +1 -exec rm {} \;
 
+      - name: Remove symlinks and hard links from build output
+        run: |
+          chmod -R a+rX _website/page-scribe-static-flow/dist
+
+
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
         with:
