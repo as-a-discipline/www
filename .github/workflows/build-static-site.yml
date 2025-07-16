@@ -29,6 +29,8 @@ jobs:
         with:
           repository: as-a-discipline/page-scribe-static-flow
           path: _website/page-scribe-static-flow
+          token: ${{ secrets.GH_PAT }}
+          ref: main
 
       - name: Set up Node.js 20
         uses: actions/setup-node@v4
