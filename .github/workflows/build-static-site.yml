@@ -51,7 +51,7 @@ jobs:
 
 
       - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
+        uses: uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
           path: _website/page-scribe-static-flow/dist
