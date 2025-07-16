@@ -21,12 +21,10 @@ if [ ! -d "$DATA_DIR" ]; then
   exit 1
 fi
 
-# Run install.sh
-if [ ! -x "$TOOLS_DIR/install.sh" ]; then
-  echo "Error: install.sh not found or not executable in $TOOLS_DIR"
-  exit 1
-fi
-"$TOOLS_DIR/install.sh"
+# Run install
+sudo apt update
+sudo apt install jq
+sudo apt install yq
 
 # Run compile.sh
 if [ ! -x "$TOOLS_DIR/compile.sh" ]; then
@@ -36,7 +34,10 @@ fi
 "$TOOLS_DIR/compile.sh" "$DATA_DIR" "$WEBSITE_DIR/src/data"
 
 # Install npm dependencies and vite, then build
+CUR_DIR="$(pwd)"
 cd "$WEBSITE_DIR" || exit 1
 npm install
 npm install vite
 npm run build
+cd "$CUR_DIR"
+
