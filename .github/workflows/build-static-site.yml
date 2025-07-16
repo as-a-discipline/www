@@ -47,6 +47,11 @@ jobs:
 
       - name: Remove symlinks and hard links from build output
         run: |
+          cp -R _website/page-scribe-static-flow/src/assets website/page-scribe-static-flow/dist/assets
+
+
+      - name: Remove symlinks and hard links from build output
+        run: |
           chmod -R a+rX _website/page-scribe-static-flow/dist
 
       - name: Upload build artifacts
