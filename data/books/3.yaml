@@ -1,46 +1,48 @@
 ---
-id: '3'
-title: Architecture as a Discipline
-subtitle: The Invisible Backbone of Sustainable Software
-description: Reclaims architecture as a craft, practice, and strategic function—not
-  just diagrams or reviews. Frames architecture as the connective tissue between
-  systems and strategy.
+id: '1'
+title: Delivery as a Discipline
+subtitle: Beyond Frameworks, Toward Flow and Value
+description: Defines delivery not as project management or methodology, but as a
+  continuous system of value generation across alignment, flow, and execution. Provides
+  a mental model for structuring delivery as an operational capability.
 fullDescription: |-
-  Software architecture is often misunderstood—reduced to diagrams that quickly become outdated, or review processes that slow down delivery. But architecture, properly understood, is the connective tissue between systems and strategy. It's the discipline that ensures software systems can evolve with business needs while maintaining quality, performance, and developer productivity.
+  In today's technology landscape, most organizations treat delivery as a collection of ceremonies, tools, and methodologies. They adopt frameworks like Scrum or SAFe, implement kanban boards, and hold retrospectives—yet still struggle with predictability, quality, and sustainable pace. The problem isn't the frameworks themselves; it's treating delivery as a process rather than as a discipline.
 
-  This book reframes architecture through an economic lens: architectural decisions are investments in future optionality. Good architecture increases your ability to respond to change; bad architecture constrains it.
+  This book reframes delivery as a continuous system of value generation built on three foundational pillars: The Delivery Triangle of Alignment, Flow, and Execution. These aren't separate concerns—they're interconnected systems that reinforce each other when designed thoughtfully.
 
-  The book introduces key frameworks including the Responsibility Principle (organizing systems around meaning and ownership), Volatility Analysis (designing for different rates of change), and the Architectural Runway (architecture as an enabler of continuous delivery). The goal isn't perfect upfront design—it's building the discipline to make good architectural decisions continuously as systems and requirements evolve.
-cover: "/src/assets/book-3-cover.jpg"
+  Unlike books that prescribe specific methodologies, this book provides the economic and systems thinking foundations that let you adapt any methodology to your context. You'll learn to diagnose delivery problems at their root and design solutions that address underlying capability gaps, not just surface symptoms.
+cover: "/src/assets/book-1-cover.jpg"
 published: '2024'
-pages: '398'
-readers: 1.2K
-genre: Software Engineering
+pages: '342'
+readers: 2.3K
+genre: Technology & Business
 rating: '4.9'
 status: Available
 featured: true
 keyFrameworks:
-- Responsibility Principle
-- Volatility Analysis
-- Architectural Runway
-targetAudience: Chief Architects, Engineering Directors, Technical Leaders
-businessImpact: 95% uptime during 10x growth
-readingTime: 10-14 hours
-practicalExercises: 18
+- The Delivery Triangle
+- Value Stream Economics
+- Cognitive Load Theory
+targetAudience: VPs of Engineering, Delivery Leaders, CTOs
+businessImpact: 78% faster delivery, 45% quality improvement
+readingTime: 8-12 hours
+practicalExercises: 15
 features:
-- Volatility Analysis frameworks
-- Responsibility Principle applications
-- Architectural Runway methodology
-- Economic framing for architecture decisions
+- 'The Delivery Triangle: Alignment, Flow, Execution'
+- Value Stream Economics frameworks
+- Cognitive Load Theory applications
+- From Ritual to Discipline transformation
 chapters:
-- title: Architecture as Strategy
-  description: How architectural decisions enable or constrain business strategy.
-- title: The Responsibility Principle
-  description: Structuring systems by meaning and ownership, not just technical
-    concerns.
-- title: Volatility Analysis
-  description: Anticipating and designing for change in complex systems.
-- title: Architectural Runway
-  description: Architecture as an enabler of continuous delivery, not a constraint.
-- title: The Economics of Architecture
-  description: Making architecture decisions based on economic principles and optionality.
+- title: Beyond Agile Cargo Cults
+  description: Understanding why most delivery transformations fail and what disciplines
+    actually work.
+- title: The Delivery Triangle
+  description: The foundational model of Alignment, Flow, and Execution as interconnected
+    systems.
+- title: Value Stream Economics
+  description: Balancing cost of delay, waste, and throughput in delivery systems.
+- title: Cognitive Load Theory
+  description: Designing delivery systems that humans can actually sustain and excel
+    within.
+- title: Building Delivery Discipline
+  description: Practical frameworks for implementing and scaling delivery excellence.

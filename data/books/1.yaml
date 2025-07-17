@@ -1,48 +1,69 @@
 ---
-id: '1'
-title: Delivery as a Discipline
-subtitle: Beyond Frameworks, Toward Flow and Value
-description: Defines delivery not as project management or methodology, but as a
-  continuous system of value generation across alignment, flow, and execution. Provides
-  a mental model for structuring delivery as an operational capability.
+id: '2'
+title: The Adaptable Enterprise
+subtitle: Why Change Fails—and How to Build Organizations That Evolve
+description: Explores how adaptability—not just strategy or execution—is the core
+  survival trait for modern enterprises. Offers a practical and economic lens on
+  building organizations that embrace change.
 fullDescription: |-
-  In today's technology landscape, most organizations treat delivery as a collection of ceremonies, tools, and methodologies. They adopt frameworks like Scrum or SAFe, implement kanban boards, and hold retrospectives—yet still struggle with predictability, quality, and sustainable pace. The problem isn't the frameworks themselves; it's treating delivery as a process rather than as a discipline.
+  Most business books focus on strategy or execution. This book argues that neither matters if your organization can't adapt. In a world where business models are disrupted overnight and competitive advantages evaporate rapidly, the ability to evolve isn't just valuable—it's the ultimate competitive advantage.
 
-  This book reframes delivery as a continuous system of value generation built on three foundational pillars: The Delivery Triangle of Alignment, Flow, and Execution. These aren't separate concerns—they're interconnected systems that reinforce each other when designed thoughtfully.
+  Organizations face a fundamental paradox: the very capabilities that make them successful today often prevent them from adapting to tomorrow's challenges. This book provides practical frameworks for building organizations that don't just survive change—they thrive because of it.
 
-  Unlike books that prescribe specific methodologies, this book provides the economic and systems thinking foundations that let you adapt any methodology to your context. You'll learn to diagnose delivery problems at their root and design solutions that address underlying capability gaps, not just surface symptoms.
-cover: "/src/assets/book-1-cover.jpg"
-published: '2024'
-pages: '342'
-readers: 2.3K
-genre: Technology & Business
-rating: '4.9'
-status: Available
+  The book introduces The Rule of 3 framework for continuous evolution: Stabilize (build operational excellence), Reach (extend into adjacent possibilities), and Reassess (question fundamental assumptions). This isn't a linear process—it's a continuous cycle that prevents organizations from getting trapped in any single mode.
+cover: "/src/assets/book-2-cover.jpg"
+published: 'PENDING'
+pages: '~280'
+readers: N/A
+genre: Business Strategy
+rating: 'N/A'
+status: Editing
 featured: true
 keyFrameworks:
-- The Delivery Triangle
-- Value Stream Economics
-- Cognitive Load Theory
-targetAudience: VPs of Engineering, Delivery Leaders, CTOs
-businessImpact: 78% faster delivery, 45% quality improvement
-readingTime: 8-12 hours
-practicalExercises: 15
+- The Rule of 3
+- Adaptive Advantage
+- Optionality Theory
+targetAudience: CEOs, Senior Leaders, Change Executives
+businessImpact: 40% increase in adaptability metrics
+readingTime: 6-10 hours
+practicalExercises: 12
 features:
-- 'The Delivery Triangle: Alignment, Flow, Execution'
-- Value Stream Economics frameworks
-- Cognitive Load Theory applications
-- From Ritual to Discipline transformation
+- Adaptive Advantage vs. Operational Efficiency
+- Creative Destruction & Optionality Theory
+- Adaptability measurement frameworks
+- 'The Rule of 3: Stabilize, Reach, Reassess'
 chapters:
-- title: Beyond Agile Cargo Cults
-  description: Understanding why most delivery transformations fail and what disciplines
-    actually work.
-- title: The Delivery Triangle
-  description: The foundational model of Alignment, Flow, and Execution as interconnected
-    systems.
-- title: Value Stream Economics
-  description: Balancing cost of delay, waste, and throughput in delivery systems.
-- title: Cognitive Load Theory
-  description: Designing delivery systems that humans can actually sustain and excel
-    within.
-- title: Building Delivery Discipline
-  description: Practical frameworks for implementing and scaling delivery excellence.
+- title: Knowing Your Business
+  description: The Foundation of Adaptability
+- title: The Adaptive Advantage
+  description: Why Efficiency is Not Enough	
+- title: The Cost of Software Architecture
+  description: Investing in Evolution	
+- title: The Economics of Enterprise Architecture
+  description: Balancing Stability and Agility	
+- title: The Business Cycle and Economic Fluctuations	
+- title: Opportunity Cost and Trade-Offs in Decision-Making	
+- title: The Principal-Agent Problem
+  description: Aligning Incentives in Organizations
+- title: Sunk Costs and Decision-Making in Business Strategy
+- title: Barriers to Entry and Competitive Moats	
+- title: Creative Destruction and Market Disruption	
+- title: Game Theory and Strategic Competitive Moves	
+- title: Behavioral Economics and Decision-Making Biases	
+- title: Public Goods and Free-Rider Problems in Business	
+- title: Externalities and Unintended Consequences	
+- title: Open Source as a Strategic Building Block	
+- title: From Code to Company	
+- title: Rethinking Intellectual Property
+- title: Incentives and Culture 
+  description: How to Engineer an Adaptive Organization	
+- title: The Psychology of Change
+  description: Why Organizations Resist Adaptability	
+- title: The Role of Failure in Adaptability	
+- title: Redefining Roles in an AI-Driven World	
+- title: Remote, Hybrid, and Global Workforces	
+- title: Risk versus Reward in Business and Investment	
+- title: Liquidity and Capital Allocation in Business Strategy
+- title: Inflation and Purchasing Power in Business Strategy	
+- title: Monetary Policy and Interest Rates in Corporate Finance	
+- title: The Economics of Scarcity and Resource Allocation
