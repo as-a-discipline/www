@@ -1,0 +1,38 @@
+---
+id: '2'
+title: 'Value Stream Economics: Making Smart Delivery Decisions'
+subtitle: How to apply economic thinking to software delivery
+book: Delivery as a Discipline
+books:
+- Delivery as a Discipline
+chapter: 'Chapter 3: Value Stream Economics'
+category: Economics
+type: Workshop
+difficulty: Intermediate
+duration: 90 minutes
+audience: Leaders & Product Teams
+featured: false
+description: Learn how to apply economic principles to software delivery decisions.
+  This presentation covers cost of delay, throughput optimization, and quality economics
+  with practical examples and frameworks you can use immediately.
+abstract: Every delivery decision has economic consequences, yet most teams lack
+  the frameworks to evaluate trade-offs effectively. This session provides practical
+  economic thinking tools for delivery decisions.
+learningOutcomes:
+- Master cost of delay calculations and applications
+- Understand throughput economics and optimization
+- Learn quality economics and technical debt management
+- Apply economic frameworks to real delivery scenarios
+keyTopics:
+- Economic foundations for delivery
+- 'Cost of delay: calculation and application'
+- Throughput economics and Little's Law
+- Quality economics and technical debt
+- Making data-driven delivery decisions
+targetAudience:
+- Product managers and owners
+- Engineering managers and directors
+- Business stakeholders
+- Delivery and project managers
+githubUrl: https://github.com/as-a-discipline/value-stream-economics-presentation
+presentationUrl: https://slides.com/as-a-discipline/value-stream-economics

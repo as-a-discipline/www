@@ -1,0 +1,40 @@
+---
+id: '1'
+title: 'The Delivery Triangle: A New Framework for Software Excellence'
+subtitle: Introduction to the foundational framework for delivery excellence
+book: Delivery as a Discipline
+books:
+- Delivery as a Discipline
+chapter: 'Chapter 2: The Delivery Triangle'
+category: Framework
+type: Keynote
+difficulty: Beginner
+duration: 45 minutes
+audience: Leadership & Teams
+featured: true
+description: An introduction to the Delivery Triangle framework, exploring how the
+  three dimensions of Alignment, Flow, and Execution work together to create delivery
+  excellence. This presentation provides practical insights for leaders and teams
+  looking to improve their delivery capability.
+abstract: Software delivery excellence isn't about individual heroics or the latest
+  tools—it's about systematically building capability across three critical dimensions.
+  This talk introduces the Delivery Triangle framework and shows how organizations
+  can assess and improve their delivery systems.
+learningOutcomes:
+- Understand the three dimensions of delivery excellence
+- Learn how to assess your organization's delivery capability
+- Discover practical steps to improve delivery performance
+- Recognize common anti-patterns and how to avoid them
+keyTopics:
+- The Delivery Triangle framework overview
+- 'Alignment: Getting everyone pointed in the same direction'
+- 'Flow: Optimizing the path from idea to production'
+- 'Execution: Building reliability and quality into every step'
+- Assessment techniques and improvement strategies
+targetAudience:
+- Engineering leaders and managers
+- Product managers and owners
+- DevOps and platform engineers
+- Agile coaches and delivery consultants
+githubUrl: https://github.com/as-a-discipline/delivery-triangle-presentation
+presentationUrl: https://slides.com/as-a-discipline/delivery-triangle

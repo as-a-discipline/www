@@ -1,0 +1,39 @@
+---
+id: '3'
+title: 'Architecture as a Discipline: Strategic Design Decisions'
+subtitle: Building systems that enable rather than constrain delivery
+book: Architecture as a Discipline
+books:
+- Architecture as a Discipline
+chapter: 'Chapter 1: Strategic Architecture'
+category: Architecture
+type: Technical Talk
+difficulty: Advanced
+duration: 60 minutes
+audience: Architects & Senior Engineers
+featured: true
+description: Explore how architectural decisions impact delivery capability and
+  business outcomes. This talk covers strategic design thinking, evolutionary architecture
+  principles, and practical approaches to building systems that enable fast, safe
+  delivery.
+abstract: Architecture isn't just about technical design—it's about enabling organizational
+  capability. This session explores how to make architectural decisions that accelerate
+  rather than impede delivery.
+learningOutcomes:
+- Understand the relationship between architecture and delivery
+- Learn strategic design thinking principles
+- Master evolutionary architecture techniques
+- Apply fitness functions to guide architectural evolution
+keyTopics:
+- Architecture as an enabler of delivery
+- Strategic vs tactical design decisions
+- Evolutionary architecture principles
+- Fitness functions and architectural governance
+- Building for change and uncertainty
+targetAudience:
+- Software architects and principal engineers
+- Engineering leaders and CTOs
+- Senior developers and tech leads
+- Platform and infrastructure engineers
+githubUrl: https://github.com/as-a-discipline/architecture-strategic-design
+presentationUrl: https://slides.com/as-a-discipline/architecture-strategic-design
