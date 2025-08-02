@@ -1,40 +1,47 @@
 ---
 id: '1'
-title: 'The Delivery Triangle: A New Framework for Software Excellence'
-subtitle: Introduction to the foundational framework for delivery excellence
-book: Delivery as a Discipline
+title: Thinking Like an Architect
+subtitle: Transitioning from Developer to Software Architect
+book: Architecture as a Discipline
 books:
-- Delivery as a Discipline
-chapter: 'Chapter 2: The Delivery Triangle'
-category: Framework
-type: Keynote
-difficulty: Beginner
-duration: 45 minutes
-audience: Leadership & Teams
+- Architecture as a Discipline
+chapter: 'Chapter 4: Thinking Like an Architect'
+category: Workshop
+type: Hands-On Workshop
+difficulty: Intermediate
+duration: 8 hours
+audience: Developers & Tech Leads
 featured: true
-description: An introduction to the Delivery Triangle framework, exploring how the
-  three dimensions of Alignment, Flow, and Execution work together to create delivery
-  excellence. This presentation provides practical insights for leaders and teams
-  looking to improve their delivery capability.
-abstract: Software delivery excellence isn't about individual heroics or the latest
-  tools—it's about systematically building capability across three critical dimensions.
-  This talk introduces the Delivery Triangle framework and shows how organizations
-  can assess and improve their delivery systems.
+description: This full-day workshop guides experienced developers through the mindset
+  shift and skill development necessary to become effective software architects. Through
+  real-world examples and hands-on kata exercises, participants will learn how to
+  decompose complex requirements, communicate designs, and lead with architectural
+  clarity.
+abstract: Moving from developer to architect isn’t about seniority—it’s about how you
+  see problems, how you structure systems, and how you communicate intent. This
+  workshop introduces foundational tools and thought patterns for technical leadership.
+  In the first half, you'll explore how to analyze ambiguous requirements, model system
+  behaviors, and make defensible trade-offs. In the second half, you’ll apply these
+  techniques in collaborative Architectural Katas with peer feedback. Whether you're
+  stepping into an architect role or just want to strengthen your system design skills,
+  this session will help you lead with confidence.
 learningOutcomes:
-- Understand the three dimensions of delivery excellence
-- Learn how to assess your organization's delivery capability
-- Discover practical steps to improve delivery performance
-- Recognize common anti-patterns and how to avoid them
+- Learn how to decompose complex or ambiguous requirements
+- Explore modeling techniques across multiple levels of abstraction
+- Understand how to diagram systems for different audiences
+- Practice architectural decision-making using kata exercises
+- Gain confidence presenting and defending architecture decisions
 keyTopics:
-- The Delivery Triangle framework overview
-- 'Alignment: Getting everyone pointed in the same direction'
-- 'Flow: Optimizing the path from idea to production'
-- 'Execution: Building reliability and quality into every step'
-- Assessment techniques and improvement strategies
+- Shifting from implementation to design thinking
+- Decomposition and modeling strategies
+- System diagramming and architecture notations
+- Communicating intent and trade-offs to stakeholders
+- Architectural Kata exercises and peer feedback
 targetAudience:
-- Engineering leaders and managers
-- Product managers and owners
-- DevOps and platform engineers
-- Agile coaches and delivery consultants
-githubUrl: https://github.com/as-a-discipline/delivery-triangle-presentation
-presentationUrl: https://slides.com/as-a-discipline/delivery-triangle
+- Senior developers and tech leads
+- Aspiring solution and software architects
+- Engineers interested in system design
+- Mentors and team leads building architectural capability
+
+githubUrl: https://github.com/as-a-discipline/presentations/blob/main/workshops/from-engineer-to-architect.md
+presentationUrl: https://marp.asadiscipline.com/workshops/from-engineer-to-architect.html
