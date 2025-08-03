@@ -17,11 +17,11 @@ description: This full-day workshop guides experienced developers through the mi
   real-world examples and hands-on kata exercises, participants will learn how to
   decompose complex requirements, communicate designs, and lead with architectural
   clarity.
-abstract: Moving from developer to architect isn’t about seniority—it’s about how you
+abstract: Moving from developer to architect isn't about seniority—it's about how you
   see problems, how you structure systems, and how you communicate intent. This
   workshop introduces foundational tools and thought patterns for technical leadership.
   In the first half, you'll explore how to analyze ambiguous requirements, model system
-  behaviors, and make defensible trade-offs. In the second half, you’ll apply these
+  behaviors, and make defensible trade-offs. In the second half, you'll apply these
   techniques in collaborative Architectural Katas with peer feedback. Whether you're
   stepping into an architect role or just want to strengthen your system design skills,
   this session will help you lead with confidence.

@@ -12,12 +12,12 @@ fullDescription: |-
 
   The book introduces key frameworks including the Responsibility Principle (organizing systems around meaning and ownership), Volatility Analysis (designing for different rates of change), and the Architectural Runway (architecture as an enabler of continuous delivery). The goal isn't perfect upfront design—it's building the discipline to make good architectural decisions continuously as systems and requirements evolve.
 cover: "/src/assets/book-3-cover.jpg"
-published: '2024'
-pages: '398'
-readers: 1.2K
+published: 'PENDING'
+pages: '~280'
+readers: N/A
 genre: Software Engineering
-rating: '4.9'
-status: Available
+rating: 'N/A'
+status: Editing
 featured: true
 keyFrameworks:
 - Responsibility Principle
