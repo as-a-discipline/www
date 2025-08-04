@@ -33,6 +33,8 @@ if [ ! -x "$TOOLS_DIR/compile.sh" ]; then
 fi
 "$TOOLS_DIR/compile.sh" "$DATA_DIR" "$WEBSITE_DIR/src/data"
 
+cp "feature-flags.json" "$WEBSITE_DIR/src/data/feature-flags.json"
+
 # Install npm dependencies and vite, then build
 CUR_DIR="$(pwd)"
 cd "$WEBSITE_DIR" || exit 1

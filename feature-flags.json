@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "caseStudies": false,
+    "whitePapers": false,
+    "assets": true,
+    "facilitatorGuides": false,
+    "assessmentTools": false,
+    "events": true,
+    "speaking": true,
+    "katas": false,
+    "exercises": false,
+    "presentations": true
+  },
+  "pages": {
+    "about": true,
+    "author": true,
+    "contact": true,
+    "publishers": true,
+    "explore": true
+  },
+  "features": {
+    "bookDropdown": true,
+    "searchFunctionality": false,
+    "newsletterSignup": false,
+    "socialSharing": true
+  }
+}
