@@ -1,0 +1,87 @@
+---
+id: '2'
+title: Rumsfeld Matrix for Architectural Risk
+subtitle: Clarify unknowns and surface risk in decision-making
+book: Architecture as a Discipline
+books:
+  - Architecture as a Discipline
+  - Delivery as a Discipline
+category: Risk & Framing Tool
+description: A visual facilitation canvas based on the Rumsfeld Matrix to help teams
+  distinguish knowns, unknowns, and blind spots. Used to de-risk architectural decisions
+  and improve clarity in planning and system evolution.
+format: Excalidraw Template
+size: N/A
+downloads: 'N/A'
+version: '1.0'
+lastUpdated: '2025-07-28'
+featured: true
+overview: This tool uses the Rumsfeld Matrix—originally made famous by U.S. Secretary 
+  of Defense Donald Rumsfeld—as a cognitive framing device for engineering and architecture. 
+  It helps teams categorize assumptions, expose uncertainty, and address what they don't know 
+  they don't know. The matrix is useful for de-risking decisions, shaping experiments, and planning iterations.
+whatsIncluded:
+- Excalidraw canvas with labeled 2x2 Rumsfeld Matrix
+- Workshop facilitation guide with step-by-step instructions
+#- Companion MARP slide deck for facilitators
+howToUse:
+- Open the Excalidraw template
+- In a workshop or review session, gather team inputs for each quadrant
+  - "Known Knowns: What we’re sure of (validated knowledge)"
+  - "Known Unknowns: What we know we need to find out"
+  - "Unknown Knowns: What someone knows but hasn’t shared"
+  - "Unknown Unknowns: Risks or gaps we haven’t yet identified"
+- Use color or shape coding to assign ownership, priority, or concern
+- Convert top risks or unknowns into follow-up experiments or decisions
+keyFeatures:
+- Simple but powerful framing for risk and assumption mapping
+- Designed for team workshops and architectural discussions
+- Includes printable and digital facilitation assets
+- Great for use in early-stage design, RFC reviews, or milestone planning
+# useCase:
+#   primaryAudience: Architects, Engineering Leaders, Cross-Functional Teams
+#   timeToComplete: 30–60 minutes
+#   frequency: Use at major design reviews, start of projects, or quarterly checkpoints
+#   teamSize: 3–12 participants
+framework:
+  title: The Rumsfeld Matrix
+  description: A 2x2 knowledge framework distinguishing four types of understanding
+  dimensions:
+    - name: Known Knowns
+      description: Facts, decisions, and validated knowledge
+    - name: Known Unknowns
+      description: Questions and risks that are recognized and can be investigated
+    - name: Unknown Knowns
+      description: Unspoken assumptions or distributed knowledge that needs surfacing
+    - name: Unknown Unknowns
+      description: Blind spots, surprises, or risks that haven't been considered
+sampleQuestions:
+- What assumptions are we treating as facts?
+- What do we know we still need to research or test?
+- What tribal knowledge or undocumented decisions might affect us?
+- How can we reduce exposure to unforeseen surprises?
+# support:
+#   documentation: Included step-by-step workshop guide
+#   videos: Facilitator walkthrough available
+#   community: Join the #architecture-discipline Slack channel for facilitation tips
+#   support: Email for Excalidraw customization support
+# relatedResources:
+#   - title: Architecture Risk Framing Toolkit
+#     type: Template
+#     category: Risk
+#   - title: Temporal Branching and Scenario Foresight
+#     type: Presentation
+#     category: Training
+#   - title: Cognitive Load & Decision Fatigue Mapping
+#     type: Tool
+#     category: Assessment
+# testimonials:
+#   - quote: This matrix helped our team uncover silent assumptions that nearly derailed a migration plan.
+#     author: Rina Patel
+#     role: Principal Engineer
+#     company: AetherOps
+#   - quote: One of the best tools we’ve used for mapping risk. Simple, fast, and revealing.
+#     author: Alex Fuentes
+#     role: Platform Architect
+#     company: Scalar Technologies
+downloadUrl: "https://https://draw.asadiscipline.com/?template=rumsfeld-matrix"
