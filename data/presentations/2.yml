@@ -1,0 +1,36 @@
+---
+id: '7'
+title: Craftsmanship in Code
+subtitle: Patterns for Sustainable Software
+book: Architecture as a Discipline
+books:
+  - Architecture as a Discipline
+chapter: 'Chapter 5: Designing for Durability'
+category: Workshop
+type: Hands-On Workshop
+difficulty: Intermediate
+duration: 4 hours
+audience: Developers & Software Engineers
+featured: true
+description: This half-day workshop helps software engineers and system designers master patterns and practices for creating maintainable, evolvable codebases. Through real-world examples, cross-language patterns, and collaborative analysis, participants will learn how to build durable software through thoughtful contracts, abstractions, and architectural boundaries.
+abstract: Sustainable software is not a byproduct of clean code—it’s the result of disciplined design. This session explores how strategic architecture, reusable abstractions, and strong contracts help systems resist entropy over time. You'll study the Anti-Corruption Layer pattern, cross-language design techniques, and responsible code generation. We’ll contrast short-term clarity with long-term survivability, and look at how code becomes infrastructure. With hands-on exercises and pseudocode labs, this session will elevate your technical instincts toward sustainable craftsmanship.
+learningOutcomes:
+  - Understand the purpose and implementation of Anti-Corruption Layers
+  - Learn when and how to generate code vs. handwrite business logic
+  - Identify key contract design principles and anti-patterns
+  - Explore sustainable abstraction patterns that reduce fragility
+  - Practice cross-language reuse with contract-driven thinking
+keyTopics:
+  - Anti-Corruption Layers in Go, C#, and Python
+  - Code generation principles for infrastructure logic
+  - Durable contract design and evolution
+  - Reuse patterns and cross-language interoperability
+  - Recognizing and refactoring design debt
+targetAudience:
+  - Developers working with legacy or multi-system architectures
+  - Engineers maintaining long-lived or regulated systems
+  - Architects building platform components or APIs
+  - Polyglot teams standardizing around contracts and interfaces
+
+githubUrl: https://github.com/as-a-discipline/presentations/blob/main/presentations/craftsmanship-in-code.md
+presentationUrl: https://marp.asadiscipline.com/presentations/craftsmanship-in-code.html
