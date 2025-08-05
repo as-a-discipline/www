@@ -31,6 +31,5 @@ targetAudience:
   - Engineers maintaining long-lived or regulated systems
   - Architects building platform components or APIs
   - Polyglot teams standardizing around contracts and interfaces
-
 githubUrl: https://github.com/as-a-discipline/presentations/blob/main/presentations/craftsmanship-in-code.md
 presentationUrl: https://marp.asadiscipline.com/presentations/craftsmanship-in-code.html
