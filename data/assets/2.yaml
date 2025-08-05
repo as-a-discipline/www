@@ -27,10 +27,6 @@ whatsIncluded:
 howToUse:
 - Open the Excalidraw template
 - In a workshop or review session, gather team inputs for each quadrant
-  - "Known Knowns: What we’re sure of (validated knowledge)"
-  - "Known Unknowns: What we know we need to find out"
-  - "Unknown Knowns: What someone knows but hasn’t shared"
-  - "Unknown Unknowns: Risks or gaps we haven’t yet identified"
 - Use color or shape coding to assign ownership, priority, or concern
 - Convert top risks or unknowns into follow-up experiments or decisions
 keyFeatures:
